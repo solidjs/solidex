@@ -1,0 +1,27 @@
+{
+  "name": "@solid.js/solidex",
+  "version": "1.0.0",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "repository": "git@github.com:solidjs/solidex.git",
+  "author": "Solid Team",
+  "license": "MIT",
+  "types": "dist/src/index.d.ts",
+  "devDependencies": {
+    "@rollup/plugin-dynamic-import-vars": "^1.4.1",
+    "@rollup/plugin-json": "^4.1.0",
+    "jiti": "^1.13.0",
+    "rollup": "^2.58.3",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "tsup": "^5.11.13",
+    "typescript": "^4.4.4"
+  },
+  "scripts": {
+    "build:json": "rm -f *.json && jiti scripts/json.ts"
+  },
+  "dependencies": {
+    "global": "^4.4.0"
+  }
+}
