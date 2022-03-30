@@ -1,5 +1,5 @@
 <p>
-  <img width="100%" src="https://github.com/solidjs/solidex/blob/main/banner.png?raw=true" alt="Solidex">
+  <img width="100%" src="https://assets.solidjs.com/banner?project=Solidex&type=core" alt="Solidex">
 </p>
 
 # Solidex
