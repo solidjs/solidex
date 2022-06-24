@@ -19,6 +19,7 @@
     "typescript": "^4.4.4"
   },
   "scripts": {
+    "build:schema": "typescript-json-schema tsconfig.json Ecosystem >schema.json",
     "build:json": "rm -f *.json && jiti scripts/json.ts"
   },
   "dependencies": {
