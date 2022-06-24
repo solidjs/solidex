@@ -35,9 +35,9 @@ export interface Ecosystem {
   description?: string;
   type: EcosystemType;
   categories: readonly ResourceCategory[];
-  official?: boolean; // If the resource is an official Solid resource
   keywords?: readonly string[];
-  published_at?: number;
+  official?: boolean; // whether the resource is an official Solid resource
+  published_at?: string; // ISO 8601 date/time string
 }
 
 export type Package = Ecosystem & {type: PackageType};
