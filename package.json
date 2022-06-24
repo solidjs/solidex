@@ -22,6 +22,7 @@
     "build:json": "rm -f *.json && jiti scripts/json.ts"
   },
   "dependencies": {
-    "global": "^4.4.0"
+    "global": "^4.4.0",
+    "typescript-json-schema": "^0.53.1"
   }
 }

@@ -28,7 +28,9 @@ export const ResourceCategories = {
 export type ResourceCategory = keyof typeof ResourceCategories;
 
 export interface Ecosystem {
+  /** @minLength 1 */
   title: string;
+  /** @format uri */
   link: string;
   author?: string;
   author_url?: string;
@@ -37,6 +39,7 @@ export interface Ecosystem {
   categories: readonly ResourceCategory[];
   keywords?: readonly string[];
   official?: boolean; // whether the resource is an official Solid resource
+  /** @format date-time */
   published_at?: string; // ISO 8601 date/time string
 }
 
