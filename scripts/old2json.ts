@@ -2,7 +2,7 @@
 // [https://github.com/solidjs/solid-site/tree/2a0cba58397bb3fa22195e6d9c4a1e42b60fa073/src/pages/Resources]
 // into JSON format.
 
-import { itemToJsonFilename } from '../utils';
+import { itemToJsonFilename } from './utils';
 import fs from 'fs/promises';
 import path from 'path';
 
@@ -44,7 +44,7 @@ async function writeItem(item: unknown) {
   if (!checkItem(item)) return;
   upgradeItem(item);
 
-  const filename = path.join(__dirname, '..', 'data', itemToJsonFilename(item));
+  const filename = itemToJsonFilename(item);
   await fs.mkdir(path.dirname(filename), { recursive: true });
   try {
     await fs.stat(filename);

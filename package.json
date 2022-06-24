@@ -2,9 +2,15 @@
   "name": "@solid.js/solidex",
   "version": "1.0.0",
   "files": [
-    "dist"
+    "data",
+    "dist",
+    "scripts",
+    "index.ts",
+    "schema.json",
+    "tsconfig.json",
+    "types.ts"
   ],
-  "main": "dist/index.js",
+  "main": "index.ts",
   "repository": "git@github.com:solidjs/solidex.git",
   "author": "Solid Team",
   "license": "MIT",
