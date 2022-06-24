@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/LXSMNSYC/solid-headless",
+  "title": "solid-headless",
+  "description": "Headless UI for SolidJS.",
+  "author": "Alexis H. Munsayac",
+  "author_url": "https://github.com/LXSMNSYC",
+  "keywords": [
+    "design",
+    "ui",
+    "components",
+    "headless"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ]
+}

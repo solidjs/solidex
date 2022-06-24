@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/L1lith/Melon-Solid",
+  "title": "melon-solid",
+  "description": "This project fuses the awesome frameworks Melon.js (for game development) and Solid.js.",
+  "author": "L1lith",
+  "author_url": "https://github.com/L1lith",
+  "keywords": [
+    "game",
+    "engine",
+    "melon",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

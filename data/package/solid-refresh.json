@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/solidjs/solid-refresh",
+  "title": "solid-refresh",
+  "description": "This project aims to provide HMR for Solid for various bundlers.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "hmr",
+    "refresh"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "plugin"
+  ]
+}

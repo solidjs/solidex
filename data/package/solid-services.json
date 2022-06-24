@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/Exelord/solid-services",
+  "title": "solid-services",
+  "description": "Services are \"global\" objects useful for features that require shared state or persistent connections.",
+  "author": "Exelord",
+  "author_url": "https://github.com/Exelord",
+  "keywords": [
+    "service",
+    "angular",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

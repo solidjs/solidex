@@ -1,0 +1,19 @@
+{
+  "link": "https://motion.dev/solid/quick-start",
+  "title": "@motionone/solid",
+  "description": "Offical Motion One library for hardware accelerated animations in Solid.",
+  "author": "davedbase & thetarnav",
+  "author_url": "https://motion.dev/",
+  "keywords": [
+    "motionone",
+    "motion",
+    "animation",
+    "official"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2022-05-08T23:20:27.000Z"
+}

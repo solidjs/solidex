@@ -1,0 +1,19 @@
+{
+  "link": "https://www.youtube.com/watch?v=70w-UoEu3Ss",
+  "title": "SolidJS with Ryan Carniato",
+  "description": "Ryan Carniato tells us all about SolidJS, a declarative, efficient, and flexible JavaScript library for building user interfaces.",
+  "keywords": [
+    "logrocket",
+    "solid",
+    "react",
+    "module",
+    "federation"
+  ],
+  "author": "LogRocket",
+  "author_url": "https://www.youtube.com/channel/UCktI_HQAkbr-tJbdWnQ_osw",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-09-01T07:51:41.000Z"
+}

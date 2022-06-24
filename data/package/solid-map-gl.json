@@ -1,0 +1,21 @@
+{
+  "link": "https://github.com/GIShub4/solid-map-gl",
+  "title": "solid-map-gl",
+  "description": "Solid Component Library for Mapbox GL JS.",
+  "author": "Kai Huebner",
+  "author_url": "https://github.com/GIShub4",
+  "keywords": [
+    "mapbox",
+    "webgl",
+    "geography",
+    "map",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

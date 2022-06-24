@@ -1,0 +1,20 @@
+{
+  "link": "https://solid-libs.github.io/solid-bootstrap/#/",
+  "title": "solid-bootstrap",
+  "description": "The most popular front-end framework rebuilt for SolidJS.",
+  "author": "Brendan-csel",
+  "author_url": "https://github.com/Brendan-csel",
+  "keywords": [
+    "bootstrap",
+    "design",
+    "ui",
+    "components"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-12-03T07:00:56.000Z"
+}

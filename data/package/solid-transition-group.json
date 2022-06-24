@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/solidjs/solid-transition-group",
+  "title": "solid-transition-group",
+  "description": "Animation library influenced by React Transition Group and Vue Transitions for the SolidJS library.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "transitions",
+    "animations"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

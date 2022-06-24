@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=ZVKHxm1-g3E",
+  "title": "SolidScript?! Using Compilation for Syntax",
+  "description": "Everyone seems to have their own preferences when it comes to syntax. Some like it explicit. Some implicit. Fortunately, with the right primitives, it is easy to tailor it to what you want.",
+  "keywords": [
+    "solidscript",
+    "compilation",
+    "syntax",
+    "ryanstreams"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/c/RyanCarniato9/videos",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-03-18T06:56:14.000Z"
+}

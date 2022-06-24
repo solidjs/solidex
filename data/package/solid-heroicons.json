@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/amoutonbrady/solid-heroicons",
+  "title": "solid-heroicons",
+  "description": "A convenient port of the Tailwind Heroicons.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "icons",
+    "ui",
+    "hero"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on",
+    "ui"
+  ]
+}

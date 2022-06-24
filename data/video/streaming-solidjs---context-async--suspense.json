@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=0zadjVUV7zM",
+  "title": "Streaming SolidJS - Context, Async, & Suspense",
+  "description": "Ryan talks about context, async and suspense.",
+  "keywords": [
+    "context",
+    "transitions",
+    "suspense",
+    "ryanstreams"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/channel/UCLLVlcmcCP4CUe7xSqVEnxw",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-09-17T16:00:00.000Z"
+}

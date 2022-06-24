@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=2UPX0HZxXEQ",
+  "title": "Building SolidJS 1.4",
+  "description": "Tonight we look at the new features coming in SolidJS 1.4, including better streaming and resource handling, improved Stores, and added compiler niceties. I won't just preview the features. We will dig into the code to see how they are implemented.",
+  "keywords": [
+    "ryanstreams",
+    "solid",
+    "1.4"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/c/RyanCarniato9",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-06T21:00:00.000Z"
+}

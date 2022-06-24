@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=LZc2hSghezM&t=57s",
+  "title": "Solid + GraphQL = Realtime Magic",
+  "description": "Let's use the Solid-JS framework to create a todo app using queries, mutations and ",
+  "keywords": [
+    "graphql",
+    "queries"
+  ],
+  "author": "Jack Harrington",
+  "author_url": "https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw",
+  "type": "video",
+  "categories": [
+    "educational",
+    "data"
+  ],
+  "published_at": "2021-09-06T00:00:00.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://hackernoon.com/state-management-in-solidjs-applications",
+  "title": "State Management in SolidJS Applications",
+  "description": "State management is usually one of the most important problems that you need to tackle when developing a frontend application.",
+  "author": "Phong Nguyen",
+  "author_url": "https://hackernoon.com/u/phongnn",
+  "keywords": [
+    "solid",
+    "state management",
+    "state",
+    "hackernoon"
+  ],
+  "official": false,
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-04-23T07:01:41.000Z"
+}

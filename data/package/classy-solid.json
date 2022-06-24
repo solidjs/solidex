@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/lume/classy-solid",
+  "title": "classy-solid",
+  "description": "Tools for class-based reactivity powered by Solid.js, and for using classes as Solid components (f.e. in a JSX template).",
+  "author": "Joe Pea",
+  "author_url": "https://github.com/lume",
+  "keywords": [
+    "class",
+    "classes",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

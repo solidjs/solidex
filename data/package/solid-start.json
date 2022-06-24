@@ -1,0 +1,15 @@
+{
+  "link": "https://github.com/solidjs/solid-start",
+  "title": "solid-start",
+  "description": "This is the home of the new official starter for Solid. This is still a work in progress.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "starter"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

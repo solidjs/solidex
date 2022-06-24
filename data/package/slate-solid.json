@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/poudels14/slate-solid",
+  "title": "slate-solid",
+  "description": "Slate Solid is a solid-js wrapper for Slate rich text editor.",
+  "author": "Sagar Poudel",
+  "author_url": "https://github.com/poudels14",
+  "keywords": [
+    "slate",
+    "wysiwyg",
+    "editor",
+    "rich text"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-10-31T16:23:52.000Z"
+}

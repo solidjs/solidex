@@ -1,0 +1,18 @@
+{
+  "link": "https://www.cbsofyalioglu.com/code/solidjs-and-reactive-primitives/",
+  "title": "Exploring SolidJS - Reactive Primitives",
+  "description": "SolidJS is a true reactive library that allows you to use JSX for your frontend projects.",
+  "author": "Can Burak Sofyalıoğlu",
+  "author_url": "https://www.cbsofyalioglu.com/",
+  "keywords": [
+    "adonis",
+    "back-end",
+    "framework"
+  ],
+  "official": false,
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-03-01T22:50:16.000Z"
+}

@@ -1,0 +1,20 @@
+{
+  "link": "https://www.youtube.com/watch?v=YxroH_MXuhw",
+  "title": "Streaming SolidJS: Routing",
+  "description": "Looks at control flow and routing in Solid and the approach we've taken with Solid App Router.",
+  "keywords": [
+    "introduction",
+    "control flow",
+    "routing",
+    "stream",
+    "ryanstreams"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/channel/UCLLVlcmcCP4CUe7xSqVEnxw",
+  "type": "video",
+  "categories": [
+    "educational",
+    "router"
+  ],
+  "published_at": "2021-10-09T04:00:00.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/pheggeseth/solid-ui",
+  "title": "solid-ui",
+  "description": "Reactive primitives and hooks for building declarative, accessible, composable UI components with SolidJS.",
+  "author": "pheggeseth",
+  "author_url": "https://github.com/pheggeseth",
+  "keywords": [
+    "components",
+    "ui",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

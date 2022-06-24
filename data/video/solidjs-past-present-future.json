@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=dOgnQ9SuKYk",
+  "title": "SolidJS: Past, Present, Future",
+  "description": "The one thing that surprises new people about SolidJS is just how long I've been working on it. It completely shifts the perspective. So in this stream, I'm going to cover everything Solid from the first commit in a private repo in 2016, how Solid is already redefining how the whole industry is building the web for the future, and give insights into how that future is shaping up.",
+  "keywords": [
+    "solid",
+    "ryanstreams",
+    "history",
+    "future"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/c/RyanCarniato9",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-06-02T21:00:00.000Z"
+}

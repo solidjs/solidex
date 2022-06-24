@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/amoutonbrady/parcel2-solid-ts-starter",
+  "title": "parcel2-solid-ts-starter",
+  "description": "Minimal Solid starter based on yarn 2 pnp resolution (zero-install) and parcel 2 for bundling.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "parcel2",
+    "tooling",
+    "boilerplate"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "starters",
+    "build_utility"
+  ]
+}

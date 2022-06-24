@@ -1,0 +1,24 @@
+{
+  "link": "https://github.com/jaoaustero/solid-tawk-messenger",
+  "title": "Tawk.to Messenger",
+  "description": "Tawk messenger chat for SolidJS",
+  "author": "Jao Austero",
+  "author_url": "https://github.com/jaoaustero",
+  "keywords": [
+    "tawk",
+    "tawkto",
+    "live-chat",
+    "chat-plugin",
+    "chat-widget",
+    "kb",
+    "knowledge-base",
+    "message"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "add_on"
+  ],
+  "published_at": "2022-04-27T18:17:33.000Z"
+}

@@ -1,0 +1,22 @@
+{
+  "link": "https://github.com/amoutonbrady/solid-i18n",
+  "title": "@amoutonbrady/solid-i18n",
+  "description": "Tiny translation library for solid-js inspired by rosetta.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "i18n",
+    "localisation",
+    "localization",
+    "translate",
+    "translations",
+    "language",
+    "rosetta"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui",
+    "data"
+  ]
+}

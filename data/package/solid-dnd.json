@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/thisbeyond/solid-dnd",
+  "title": "solid-dnd",
+  "description": "A lightweight and extremely performant drag and drop toolkit for Solid.",
+  "author": "Martin Pengelly-Phillips",
+  "author_url": "https://github.com/martinpengellyphillips",
+  "keywords": [
+    "drag",
+    "drop",
+    "dnd"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on",
+    "primitive"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/Bedrock-Layouts/Solid-Bedrock",
+  "title": "solid-bedrock",
+  "description": "The Lodash of Web Layouts, a collection of utility components.",
+  "author": "Travis Waith-Mair",
+  "author_url": "https://github.com/Jarvis1010",
+  "keywords": [
+    "bedrock",
+    "components",
+    "layout",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

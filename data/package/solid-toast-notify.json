@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/swise0/solid-toast-notify",
+  "title": "solid-toast-notify",
+  "description": "Toast notify element.",
+  "author": "swise0",
+  "author_url": "https://github.com/swise0",
+  "keywords": [
+    "notify",
+    "toast"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-10-19T19:47:00.000Z"
+}

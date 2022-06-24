@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=2T8M2VV1EXk",
+  "title": "Reactive Future: SolidJS without Compromise",
+  "description": "In this video, we learn about reactive programming, reactivity, signals, derivations, reactions and oh so much more.",
+  "keywords": [
+    "solid",
+    "introduction",
+    "reactivity"
+  ],
+  "author": "Spooky Software",
+  "author_url": "https://www.youtube.com/channel/UCuRHr-1aqro-UWcz36hkdoQ",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-01-30T22:00:00.000Z"
+}

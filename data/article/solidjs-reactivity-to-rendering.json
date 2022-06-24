@@ -1,0 +1,15 @@
+{
+  "link": "https://indepth.dev/posts/1289/solidjs-reactivity-to-rendering",
+  "title": "SolidJS: Reactivity to Rendering",
+  "description": "An in depth look at building Solid's reactive renderer, piece by piece, from the ground up.",
+  "author": "Ryan Carniato",
+  "author_url": "https://www.github.com/ryansolid",
+  "keywords": [
+    ""
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2020-06-23T10:00:00.000Z"
+}

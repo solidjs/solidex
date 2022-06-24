@@ -1,0 +1,16 @@
+{
+  "link": "https://www.youtube.com/watch?v=0efOc8D39Ow",
+  "title": "Gentle introduction to SolidJS by Kajetan Swiatek",
+  "description": "This talk serves as a gentle introduction to SolidJS. During the event, you’ll hear about basic concepts behind the framework and what makes it stand out - all based on a real-world example of a small feature that’ll be live-coded in front of you.",
+  "keywords": [
+    "solid",
+    "introduction"
+  ],
+  "author": "Kajetan Swiatek / Engineering Community",
+  "author_url": "https://www.youtube.com/channel/UCARnxsw8cR-dsuOG_2YMEjg",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-06-01T21:00:00.000Z"
+}

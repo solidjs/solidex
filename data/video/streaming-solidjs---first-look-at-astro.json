@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=UPhx3OxUH0w",
+  "title": "Streaming SolidJS - First look at Astro",
+  "description": "Ryan takes a look at what Astro is all about with Solid.",
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/channel/UCLLVlcmcCP4CUe7xSqVEnxw",
+  "keywords": [
+    "astro",
+    "streaming",
+    "ryanstream"
+  ],
+  "type": "video",
+  "categories": [
+    "educational",
+    "build_utility"
+  ],
+  "published_at": "2021-10-01T17:47:24.000Z"
+}

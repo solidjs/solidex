@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/tjjfvi/solid-native",
+  "title": "solid-native",
+  "description": "Solid Native expands the Solid ecosystem to include development of native mobile applications.",
+  "author": "T6",
+  "author_url": "https://github.com/tjjfvi",
+  "keywords": [
+    "native",
+    "applications",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

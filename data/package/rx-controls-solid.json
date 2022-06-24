@@ -1,0 +1,17 @@
+{
+  "link": "https://gitlab.com/john.carroll.p/rx-controls",
+  "title": "rx-controls-solid",
+  "description": "RxControls provides several javascript FormControl objects to make dealing with forms easier.",
+  "author": "John Carroll",
+  "author_url": "https://gitlab.com/john.carroll.p",
+  "keywords": [
+    "forms",
+    "rx"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2021-12-30T20:12:17.000Z"
+}

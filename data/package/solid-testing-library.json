@@ -1,0 +1,15 @@
+{
+  "link": "https://github.com/solidjs/solid-testing-library",
+  "title": "solid-testing-library",
+  "description": "Simple and complete Solid DOM testing utilities that encourage good testing practices.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "testing"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "testing"
+  ]
+}

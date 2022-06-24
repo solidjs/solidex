@@ -1,0 +1,17 @@
+{
+  "link": "https://github.com/builderio/jsx-lite",
+  "title": "jsx-lite",
+  "description": "Generalized JSX that transpiles into Solid, React, Angular, Vue, etc. They have plugins for Figma, VSCode, & Builder.io.",
+  "author": "Builder.io",
+  "author_url": "https://github.com/builderio",
+  "keywords": [
+    "jsx",
+    "jsx-lite",
+    "builder"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ]
+}

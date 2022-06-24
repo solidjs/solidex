@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/DigiChanges/solid-multiselect",
+  "title": "solid-multiselect",
+  "description": "A multi-select dropdown implementation for SolidJS.",
+  "author": "DigiChanges",
+  "author_url": "https://github.com/DigiChanges",
+  "keywords": [
+    "component",
+    "multiselect",
+    "ui",
+    "dropdown",
+    "searchable"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2022-01-13T14:43:49.000Z"
+}

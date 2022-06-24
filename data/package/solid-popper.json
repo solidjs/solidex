@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/LXSMNSYC/solid-popper",
+  "title": "solid-popper",
+  "description": "Solid bindings for Popper.js.",
+  "author": "Alexis H. Munsayac",
+  "author_url": "https://github.com/LXSMNSYC",
+  "keywords": [
+    "popper",
+    "tooltip",
+    "positioning"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ]
+}

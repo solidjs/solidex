@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/Vexcited/solid-hcaptcha",
+  "title": "solid-hcaptcha",
+  "description": "hCaptcha Component Library for Solid.",
+  "author": "Mikkel Ringaud",
+  "author_url": "https://github.com/Vexcited",
+  "keywords": [
+    "hcaptcha",
+    "captcha"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin"
+  ]
+}

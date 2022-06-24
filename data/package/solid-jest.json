@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/solidjs/solid-jest",
+  "title": "solid-jest",
+  "description": "This library contains presets for SolidJS to easily get started testing with Jest for both browser and server rendering with Node.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "testing",
+    "jest"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "testing"
+  ]
+}

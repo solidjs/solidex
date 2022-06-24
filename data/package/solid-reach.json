@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/pablo-abc/solid-reach",
+  "title": "solid-reach",
+  "description": "This is a port of ReachUI for Solid that (hopefully) will serve you as The Accessible Foundation for Solid Apps and Design Systems.",
+  "author": "Pablo Berganza",
+  "author_url": "https://github.com/pablo-abc",
+  "keywords": [
+    "accessibility",
+    "system",
+    "reach",
+    "ui"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ]
+}

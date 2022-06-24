@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/Aslemammad/solid-spring",
+  "title": "solid-spring",
+  "description": "solid-spring is a spring-physics first animation library for SolidJS based on react-spring/core.",
+  "author": "M. Bagher Abiat",
+  "author_url": "https://github.com/Aslemammad",
+  "keywords": [
+    "spring",
+    "animation",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

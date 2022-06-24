@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/fwouts/previewjs",
+  "title": "previewjs",
+  "description": "Preview.js lets you preview Solid components instantly in your IDE.",
+  "author": "François Wouts",
+  "author_url": "https://github.com/fwouts",
+  "keywords": [
+    "preview",
+    "components",
+    "previewjs",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "link": "https://indepth.dev/the-journey-to-isomorphic-rendering-performance",
+  "title": "The Journey to Isomorphic JavaScript Performance",
+  "description": "Finding the right SSR solution for Solid.",
+  "author": "Ryan Carniato",
+  "author_url": "https://www.github.com/ryansolid",
+  "keywords": [
+    ""
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2020-10-15T10:00:00.000Z"
+}

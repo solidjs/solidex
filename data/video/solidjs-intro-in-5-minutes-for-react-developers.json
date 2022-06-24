@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=JWcorrKWRgY",
+  "title": "SolidJS Intro in 5 minutes (for React Developers)",
+  "description": "SolidJS is a \"new\" (5 years old) UI library with an API very similar to React that is gaining more and more popularity on Twitter and GitHub (20k stars), and which, in my opinion, is exactly how React should work.",
+  "keywords": [
+    "solid",
+    "introduction",
+    "5-minutes",
+    "react"
+  ],
+  "author": "Fabio Biondi",
+  "author_url": "https://www.youtube.com/c/FabioBiondi",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-27T21:00:00.000Z"
+}

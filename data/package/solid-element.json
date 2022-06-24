@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/solidjs/solid/blob/main/packages/solid-element",
+  "title": "solid-element",
+  "description": "Extensions to Solid.js that add a Web Component wrapper.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "web",
+    "components",
+    "web components",
+    "elements"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "router"
+  ]
+}

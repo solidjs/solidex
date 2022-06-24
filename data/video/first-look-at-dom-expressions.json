@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=jnZmG4hyNas",
+  "title": "First look at DOM Expressions",
+  "description": "Overview of the universal reactive renderer that powers SolidJS.",
+  "keywords": [
+    "expressions",
+    "dom",
+    "ryanstreams"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/channel/UCLLVlcmcCP4CUe7xSqVEnxw",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-09-04T00:00:00.000Z"
+}

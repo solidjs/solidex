@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=WDodWU-B-aY",
+  "title": "SolidJS Crash Course - Better Than React!",
+  "description": "SolidJS is the framework React has always wanted to be. In this SolidJS tutorial, we'll learn state management, routing, data fetching, use of components, web storage and more!",
+  "keywords": [
+    "solid",
+    "introduction",
+    "react"
+  ],
+  "author": "Ebenezer Don",
+  "author_url": "https://www.youtube.com/c/EbenezerDon",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-31T21:00:00.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/LXSMNSYC/babel-plugin-solid-labels",
+  "title": "babel-plugin-solid-labels",
+  "description": "Compile-time reactive expressions for SolidJS.",
+  "author": "Alexis H. Munsayac",
+  "author_url": "https://github.com/LXSMNSYC",
+  "keywords": [
+    "labels",
+    "expessions",
+    "babel",
+    " compile-time"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility",
+    "plugin"
+  ]
+}

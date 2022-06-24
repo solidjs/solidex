@@ -1,0 +1,18 @@
+{
+  "link": "https://www.npmjs.com/package/solid-urql",
+  "title": "solid-urql",
+  "description": "A highly customizable and versatile GraphQL client for Solid.",
+  "author": "Ari Seyhun",
+  "author_url": "https://github.com/Acidic9",
+  "keywords": [
+    "graphql",
+    "url",
+    "url",
+    "formidable"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "data"
+  ]
+}

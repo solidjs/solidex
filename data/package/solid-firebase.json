@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/wobsoriano/solid-firebase",
+  "title": "solid-firebase",
+  "description": "A range of useful Solid hooks for Firebase.",
+  "author": "wobsoriano",
+  "author_url": "https://github.com/wobsoriano",
+  "keywords": [
+    "firebase",
+    "database",
+    "hooks"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "data"
+  ],
+  "published_at": "2022-02-13T16:55:55.777Z"
+}

@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/jherr/chrome-extension-boilerplate-solid",
+  "title": "chrome-extension-boilerplate-solid",
+  "description": "Chrome Extensions boilerplate with SolidJS",
+  "author": "hjerr",
+  "author_url": "https://github.com/jherr",
+  "keywords": [
+    "chrome",
+    "extension",
+    "plugin"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ],
+  "published_at": "2022-01-11T02:57:58.000Z"
+}

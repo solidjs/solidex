@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/merged-js/solid-apollo",
+  "title": "solid-apollo",
+  "description": "An Apollo client for Solid.",
+  "author": "merged-js",
+  "author_url": "https://github.com/merged-js",
+  "keywords": [
+    "apollo",
+    "graphql"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2021-10-29T16:09:04.000Z"
+}

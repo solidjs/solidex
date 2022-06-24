@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/edemaine/solid-meteor-data",
+  "title": "solid-meteor-data",
+  "description": "Integration between Solid and Meteor reactivity, including helpers for managing Meteor data in Solid components.",
+  "author": "edemaine",
+  "author_url": "https://github.com/edemaine/",
+  "keywords": [
+    "meteor"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "data"
+  ],
+  "published_at": "2022-02-13T16:55:55.777Z"
+}

@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/minht11/solid-virtual-container",
+  "title": "solid-virtual-container",
+  "description": "Efficient, single direction virtual list/grid for Solid-js.",
+  "author": "Justinas Delinda",
+  "author_url": "https://github.com/minht11",
+  "keywords": [
+    "container",
+    "virtual",
+    "list",
+    "grid"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ]
+}

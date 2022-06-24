@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/ryansolid/dom-expressions/tree/main/packages/lit-dom-expressions",
+  "title": "lit-dom-expressions",
+  "description": "Tagged Template Literal API for DOM Expressions.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "babel",
+    "expressions"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/andgate/solid-orbit",
+  "title": "solid-orbit",
+  "description": "This package provides Solid a provider and hooks for Orbit. Most notably, this provides a useQuery hook which is a query transform listener, updating component props with records as they are changed.",
+  "author": "Gabriel Anderson",
+  "author_url": "https://github.com/andgate",
+  "keywords": [
+    "orbit",
+    "store",
+    "data"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on",
+    "data"
+  ]
+}

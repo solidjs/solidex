@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/TiagoCavalcante/solidjs-div-100vh",
+  "title": "solidjs-div-100vh",
+  "description": "This is a workaround for iOS Safari and other mobile browsers forked from react-div-100vh by mvasin.",
+  "author": "TiagoCavalcante",
+  "author_url": "https://github.com/TiagoCavalcante",
+  "keywords": [
+    "react-div-100vh",
+    "safari",
+    "height",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

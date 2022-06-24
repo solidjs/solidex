@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/storeon/solidjs",
+  "title": "solid-storeon",
+  "description": "A package that helps to connect store with Solid.js to provide a better performance and developer experience while remaining so tiny.",
+  "author": "Storeon",
+  "keywords": [
+    "storeon",
+    "store"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on",
+    "data"
+  ]
+}

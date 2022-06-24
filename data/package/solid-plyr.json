@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/git-ced/solid-plyr",
+  "title": "solid-plyr",
+  "description": "A simple HTML5, YouTube and Vimeo player (Plyr) for SolidJS.",
+  "author": "Prince Neil Cedrick Castro (git-ced)",
+  "author_url": "https://github.com/git-ced",
+  "keywords": [
+    "player",
+    "video",
+    "html5",
+    "youtube",
+    "vimeo"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin"
+  ],
+  "published_at": "2021-12-07T22:25:04.000Z"
+}

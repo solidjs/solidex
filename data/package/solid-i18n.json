@@ -1,0 +1,23 @@
+{
+  "link": "https://github.com/SanichKotikov/solid-i18n",
+  "title": "solid-i18n",
+  "description": "Tiny translation library for solid-js inspired by Rosetta.",
+  "author": "SanichKotikov",
+  "author_url": "https://github.com/SanichKotikov",
+  "keywords": [
+    "i18n",
+    "localisation",
+    "localization",
+    "translate",
+    "translations",
+    "language",
+    "rosetta"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-10-31T16:23:52.000Z"
+}

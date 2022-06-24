@@ -1,0 +1,16 @@
+{
+  "link": "https://www.youtube.com/watch?v=GWH8CdQfN38",
+  "title": "Astro -- Going Fast Without JavaScript Bloat (demonstrated using Solid)",
+  "description": "In this video, we dive into Astro and how it can help you build better websites without the big, bulky SPA, but still enable you to have interactive content.",
+  "keywords": [
+    "solid",
+    "astro"
+  ],
+  "author": "Spooky Software",
+  "author_url": "https://www.youtube.com/channel/UCuRHr-1aqro-UWcz36hkdoQ",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-06-27T21:00:00.000Z"
+}

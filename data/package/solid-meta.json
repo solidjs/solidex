@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/solidjs/solid-meta",
+  "title": "solid-meta",
+  "description": "Asynchronous SSR-ready Document Head management for Solid based on React Head.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "meta",
+    "document"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "plugin"
+  ]
+}

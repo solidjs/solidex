@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/andi23rosca/solid-markdown",
+  "title": "solid-markdown",
+  "description": "Ported version of react-markdown for Solid markdown generation.",
+  "author": "Andi Rosca",
+  "author_url": "https://github.com/andi23rosca",
+  "keywords": [
+    "markdown",
+    "react-markdown",
+    "parser"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-10-10T19:48:58.000Z"
+}

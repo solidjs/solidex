@@ -1,0 +1,17 @@
+{
+  "link": "https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63",
+  "title": "5 Ways SolidJS Differs from Other JS Frameworks",
+  "description": "A deep dive into the evolution and future of React Server Components.",
+  "author": "Ryan Carniato",
+  "author_url": "https://www.github.com/ryansolid",
+  "keywords": [
+    "react",
+    "vue",
+    "svelte"
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-01-25T19:08:39.000Z"
+}

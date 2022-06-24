@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/kajetansw/solar-forms",
+  "title": "solar-forms",
+  "description": "Form library for SolidJS inspired by Angular's reactive forms.",
+  "author": "L1lith",
+  "author_url": "https://github.com/L1lith",
+  "keywords": [
+    "solar",
+    "forms",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

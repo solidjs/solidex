@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/tanvesh01/motion-signals",
+  "title": "motion-signals",
+  "description": "A wrapper over Motion One, An animation library, built on the Web Animations API for the smallest filesize and the fastest performance.",
+  "author": "tanvesh01",
+  "author_url": "https://github.com/tanvesh01",
+  "keywords": [
+    "motionone",
+    "motion",
+    "animation",
+    "windowed"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2022-02-28T22:46:33.000Z"
+}

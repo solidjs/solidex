@@ -1,0 +1,15 @@
+{
+  "link": "https://github.com/amoutonbrady/solid-debug",
+  "title": "solid-debug",
+  "description": "A very simple visual debugger for Solid.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "debug"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ]
+}

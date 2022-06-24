@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=4KY8qIkJeSw",
+  "title": "Ryan Carniato — SolidJS - Getting Started (HolyJS 2022)",
+  "description": "In this talk, Ryan will introduce SolidJS a JavaScript UI framework built on fine-grained reactivity and compiled JSX.",
+  "keywords": [
+    "solid",
+    "introduction",
+    "ryanstreams",
+    "holyjs"
+  ],
+  "author": "HolyJS",
+  "author_url": "https://holyjs.ru/en",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-25T21:00:00.000Z"
+}

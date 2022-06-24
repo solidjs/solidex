@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/MrFoxPro/solid-chart.js",
+  "title": "solid-chart",
+  "description": "Chart.js powered by solid-js framework.",
+  "author": "Dmitriy Nikiforov",
+  "author_url": "https://github.com/MrFoxPro",
+  "keywords": [
+    "chart",
+    "chart.js"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

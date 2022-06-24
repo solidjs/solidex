@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/one-aalam/solid-starter-kit",
+  "title": "solid-starter-kit",
+  "description": "Solid Starter Kit is an opinionated boilerplate with Supabase, Tailwind, TS and Prettier.",
+  "author": "Aftab Alam",
+  "author_url": "https://github.com/one-aalam",
+  "keywords": [
+    "supabase",
+    "tailwind",
+    "tailwind"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "starters"
+  ],
+  "published_at": "2021-10-22T15:38:14.000Z"
+}
