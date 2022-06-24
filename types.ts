@@ -1,31 +1,31 @@
-export const ResourceTypes = {
-  'article': 1,
-  'video': 1,
-  'podcast': 1,
-};
-export type ResourceType = keyof typeof ResourceTypes;
+export const ResourceTypes = [
+  'article',
+  'video',
+  'podcast',
+] as const;
+export type ResourceType = typeof ResourceTypes[number];
 
-export const PackageTypes = {
-  'package': 1,
-};
-export type PackageType = keyof typeof PackageTypes;
+export const PackageTypes = [
+  'package',
+] as const;
+export type PackageType = typeof PackageTypes[number];
 
-export const EcosystemTypes = {...ResourceTypes, ...PackageTypes};
-export type EcosystemType = keyof typeof EcosystemTypes;
+export const EcosystemTypes = [...ResourceTypes, ...PackageTypes];
+export type EcosystemType = typeof EcosystemTypes[number];
 
-export const ResourceCategories = {
-  'primitive': 1,
-  'router': 1,
-  'data': 1,
-  'ui': 1,
-  'plugin': 1,
-  'starters': 1,
-  'build_utility': 1,
-  'add_on': 1,
-  'testing': 1,
-  'educational': 1,
-}
-export type ResourceCategory = keyof typeof ResourceCategories;
+export const Categories = [
+  'primitive',
+  'router',
+  'data',
+  'ui',
+  'plugin',
+  'starters',
+  'build_utility',
+  'add_on',
+  'testing',
+  'educational',
+] as const;
+export type Category = typeof Categories[number];
 
 export interface Ecosystem {
   /** @minLength 1 */
@@ -36,8 +36,8 @@ export interface Ecosystem {
   author_url?: string;
   description?: string;
   type: EcosystemType;
-  categories: readonly ResourceCategory[];
-  keywords?: readonly string[];
+  categories: Category[];
+  keywords?: string[];
   official?: boolean; // whether the resource is an official Solid resource
   /** @format date-time */
   published_at?: string; // ISO 8601 date/time string
