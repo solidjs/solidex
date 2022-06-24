@@ -23,6 +23,7 @@
     "ajv-formats": "^2.1.1",
     "github-slugger": "^1.4.0",
     "jiti": "^1.14.0",
+    "tslib": "^2.4.0",
     "typescript-json-schema": "^0.53.1"
   },
   "scripts": {
