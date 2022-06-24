@@ -11,12 +11,16 @@
     "newLine": "lf",
     "sourceMap": true,
     "jsxImportSource": "solid-js",
+    "noImplicitAny": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "skipLibCheck": true,
     "strict": true,
+    "types": [
+      "node"
+    ],
     "noEmit": true
   },
-  "include": ["types.ts"],
+  "include": ["types.ts", "scripts"],
   "exclude": ["node_modules/"]
 }

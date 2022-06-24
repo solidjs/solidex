@@ -8,22 +8,22 @@
   "repository": "git@github.com:solidjs/solidex.git",
   "author": "Solid Team",
   "license": "MIT",
-  "types": "dist/src/index.d.ts",
+  "type": "module",
+  "types": "types.ts",
   "devDependencies": {
-    "@rollup/plugin-dynamic-import-vars": "^1.4.1",
-    "@rollup/plugin-json": "^4.1.0",
-    "jiti": "^1.13.0",
-    "rollup": "^2.58.3",
-    "rollup-plugin-typescript2": "^0.30.0",
-    "tsup": "^5.11.13",
-    "typescript": "^4.4.4"
+    "@types/github-slugger": "^1.3.0",
+    "@types/node": "^18.0.0",
+    "ajv": "^8.11.0",
+    "ajv-formats": "^2.1.1",
+    "github-slugger": "^1.4.0",
+    "jiti": "^1.14.0",
+    "typescript-json-schema": "^0.53.1"
   },
   "scripts": {
     "build:schema": "typescript-json-schema tsconfig.json Ecosystem >schema.json",
-    "build:json": "rm -f *.json && jiti scripts/json.ts"
+    "build:json": "rm -f dist/*.json && jiti scripts/json.ts",
+    "old2json": "jiti scripts/old2json.ts",
+    "test": "jiti scripts/validate.ts"
   },
-  "dependencies": {
-    "global": "^4.4.0",
-    "typescript-json-schema": "^0.53.1"
-  }
+  "dependencies": {}
 }
