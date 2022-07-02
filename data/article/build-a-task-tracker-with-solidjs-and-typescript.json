@@ -1,0 +1,17 @@
+{
+  "link": "https://blog.logrocket.com/build-task-tracker-solidjs-typescript",
+  "title": "Build a task tracker with SolidJS and TypeScript",
+  "description": "SolidJS is fast becoming the center of attention in the web development community.",
+  "author": "Ebenezer Don",
+  "author_url": "https://blog.logrocket.com/author/ebenezerdon/",
+  "keywords": [
+    "state",
+    "typescript",
+    "getting-started"
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-06-29T17:57:24.000Z"
+}

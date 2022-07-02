@@ -1,0 +1,18 @@
+{
+  "link": "https://youtu.be/M5rJxGPPFvY",
+  "title": "Supabase with SolidJS - Creating a Realtime Todo List App Live",
+  "description": "Tyler from Supabase invites Dan from SolidJS to build a realtime todo list app together using SolidJS and Supabase.",
+  "keywords": [
+    "supabase",
+    "solid",
+    "danstreams",
+    "collaborations"
+  ],
+  "author": "Supabase",
+  "author_url": "https://www.youtube.com/c/Supabase",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-06-13T10:02:40.000Z"
+}
