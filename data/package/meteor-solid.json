@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/edemaine/meteor-solid",
+  "title": "meteor-solid",
+  "description": "A Meteor plugin for the Solid JSX compiler.",
+  "author": "edemaine",
+  "author_url": "https://github.com/edemaine/",
+  "keywords": [
+    "meteor"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ],
+  "published_at": "2022-02-13T16:55:55.777Z"
+}

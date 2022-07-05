@@ -1,0 +1,15 @@
+{
+  "link": "https://github.com/mikeplus64/solid-typefu-router5",
+  "title": "solid-typefu-router5",
+  "description": "This package provides a router with integration with router5 and solid-js, and features type safe router and link creation.",
+  "author": "Mike Ledger",
+  "author_url": "https://github.com/mikeplus64",
+  "keywords": [
+    "router"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "router"
+  ]
+}

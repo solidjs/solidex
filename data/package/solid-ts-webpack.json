@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/ryansolid/solid-ts-webpack",
+  "title": "solid-ts-webpack",
+  "description": "Typescript start with Webpack.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "starter",
+    "typescript",
+    "webpack"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "starters",
+    "build_utility"
+  ]
+}

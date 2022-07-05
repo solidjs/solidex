@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/andi23rosca/tiptap-solid",
+  "title": "tiptap-solid",
+  "description": "Solid components for tiptap v2.",
+  "author": "Andi Rosca",
+  "author_url": "https://github.com/andi23rosca",
+  "keywords": [
+    "tiptap",
+    "ui",
+    "editor",
+    "wysiwyg"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2021-10-22T15:38:14.000Z"
+}

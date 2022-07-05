@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/ryansolid/dom-expressions",
+  "title": "dom-expressions",
+  "description": "The renderer behind Solid.js that enables lightning fast fine grained performance.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "dom",
+    "expressions"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ]
+}

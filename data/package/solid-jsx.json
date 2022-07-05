@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/high1/solid-jsx",
+  "title": "solid-jsx",
+  "description": "Use Solid components with MDX. Enabled Vite and Rollup in general to parse MDX components into Solid.",
+  "author": "high1",
+  "author_url": "https://github.com/high1",
+  "keywords": [
+    "mdx"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ],
+  "published_at": "2022-01-01T00:12:17.000Z"
+}

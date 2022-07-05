@@ -1,0 +1,15 @@
+{
+  "link": "https://github.com/solidjs/react-solid-state",
+  "title": "react-solid-state",
+  "description": "React Hooks API to use Solid.js paradigm in your existing React apps.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/MrFoxPro",
+  "keywords": [
+    "hooks"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://www.youtube.com/watch?v=PW6Re59Hb-8",
+  "title": "AM Coder - SolidJS Todo App for Express/Mongo API",
+  "description": "Alex Merced walks us through creating a Solid app with Express and Mongo.",
+  "keywords": [
+    "express",
+    "app",
+    "mongo"
+  ],
+  "author": "Alex Merced",
+  "author_url": "https://www.youtube.com/channel/UCoc4UCEetAt3htM3hV1dQgQ",
+  "type": "video",
+  "categories": [
+    "educational",
+    "data",
+    "ui"
+  ],
+  "published_at": "2021-09-08T00:00:00.000Z"
+}

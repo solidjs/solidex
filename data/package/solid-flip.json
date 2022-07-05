@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/otonashixav/solid-flip",
+  "title": "solid-flip",
+  "description": "A lightweight transition library for solid-js.",
+  "author": "otonashixav",
+  "author_url": "https://github.com/otonashixav",
+  "keywords": [
+    "animation",
+    "transition"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ]
+}

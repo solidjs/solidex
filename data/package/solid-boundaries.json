@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/everweij/solid-boundaries",
+  "title": "solid-boundaries",
+  "description": "A utility to track the bounds of html-elements in SolidJS.",
+  "author": "Erik Verweij",
+  "author_url": "https://github.com/everweij",
+  "keywords": [
+    "boundaries",
+    "elements",
+    "html",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

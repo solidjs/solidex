@@ -1,0 +1,18 @@
+{
+  "link": "https://www.youtube.com/watch?v=WSvmEG7HPyE",
+  "title": "SolidJS - Why Doesn't React Just Work like This",
+  "description": "Solid is close enough to React that you'll pick it up quickly, so let's build something with the framework.",
+  "keywords": [
+    "learning",
+    "starter",
+    "reactivity",
+    "planet"
+  ],
+  "author": "Planet of the Web",
+  "author_url": "https://www.youtube.com/channel/UCnd308ZWP--wV2-_j3LZU9A",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-11T14:40:16.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/sophiabrandt/solid-heroes",
+  "title": "solid-heroes",
+  "description": "Simple SolidJS example using GraphQL-Yoga as the server and URQL as the client.",
+  "author": "Sophia Brandt",
+  "author_url": "https://github.com/sophiabrandt",
+  "keywords": [
+    "graphql",
+    "urql",
+    "yoga"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "educational",
+    "data"
+  ],
+  "published_at": "2021-10-15T19:40:49.000Z"
+}

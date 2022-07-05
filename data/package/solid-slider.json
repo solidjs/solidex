@@ -1,0 +1,24 @@
+{
+  "link": "https://github.com/davedbase/solid-slider",
+  "title": "solid-slider",
+  "description": "A carousel/slider implementation in TypeScript for Solid using KeenSlider.",
+  "author": "David Di Biase",
+  "author_url": "https://github.com/davedbase/solid-slider",
+  "keywords": [
+    "slider",
+    "carouse",
+    "solid",
+    "keen",
+    "slider",
+    "carousel",
+    "caroussel",
+    "slideshow",
+    "gallery",
+    "plugin"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ]
+}

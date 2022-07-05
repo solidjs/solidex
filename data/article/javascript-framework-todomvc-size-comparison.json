@@ -1,0 +1,17 @@
+{
+  "link": "https://dev.to/this-is-learning/javascript-framework-todomvc-size-comparison-504f",
+  "title": "JavaScript Framework TodoMVC Size Comparison",
+  "description": "Size in JavaScript Frameworks is actually a pretty tricky thing to estimate.",
+  "author": "Ryan Carniato",
+  "author_url": "https://dev.to/ryansolid",
+  "keywords": [
+    "bundles",
+    "scaling",
+    "size"
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-10-14T23:17:55.000Z"
+}

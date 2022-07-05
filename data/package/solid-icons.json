@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/x64Bits/solid-icons",
+  "title": "solid-icons",
+  "description": "The simplest way to use icons in SolidJS",
+  "author": "Ignacio Zsabo",
+  "author_url": "https://github.com/x64Bits",
+  "keywords": [
+    "icons",
+    "svg",
+    "iconpack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "add_on",
+    "ui"
+  ]
+}

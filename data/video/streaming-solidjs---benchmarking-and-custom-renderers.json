@@ -1,0 +1,19 @@
+{
+  "link": "https://www.youtube.com/watch?v=Yi_MJ8cVCCs",
+  "title": "Streaming SolidJS - Benchmarking and Custom Renderers",
+  "description": "The history of JavaScript framework benchmarking and the new custom renderer API coming in Solid 1.2.0",
+  "keywords": [
+    "custom render",
+    "benchmarking",
+    "performance",
+    "ryanstreams"
+  ],
+  "author": "Ryan Carniato",
+  "author_url": "https://www.youtube.com/channel/UCLLVlcmcCP4CUe7xSqVEnxw",
+  "type": "video",
+  "categories": [
+    "educational",
+    "router"
+  ],
+  "published_at": "2021-10-24T03:51:38.000Z"
+}

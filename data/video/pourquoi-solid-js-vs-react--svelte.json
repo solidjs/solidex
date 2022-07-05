@@ -1,0 +1,20 @@
+{
+  "link": "https://www.youtube.com/watch?v=4Xnt2ASdFbA",
+  "title": "Pourquoi Solid JS (vs React & Svelte)?",
+  "description": "Solid JS ressemble en surface à React, et sous la surface, à Svelte. Qu'apporte ce framework de plus que la pléthoire de frameworks qui existent déjà, ou que le framework dominant qu'est React ?",
+  "keywords": [
+    "solid",
+    "introduction",
+    "react",
+    "svelte",
+    "comparison",
+    "fr"
+  ],
+  "author": "Kodaps - apprendre à coder",
+  "author_url": "https://www.youtube.com/channel/UCzdX32OIhpfrdxQRhN2s98w",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-26T21:00:00.000Z"
+}

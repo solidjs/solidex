@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/skrylnikov/reatom-solid",
+  "title": "reatom-solid",
+  "description": "Solid bindings for Reatom store.",
+  "author": "skrylnikov",
+  "keywords": [
+    "reatom"
+  ],
+  "official": false,
+  "author_url": "https://github.com/skrylnikov",
+  "type": "package",
+  "categories": [
+    "add_on",
+    "data"
+  ]
+}

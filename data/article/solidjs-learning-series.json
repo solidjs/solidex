@@ -1,0 +1,17 @@
+{
+  "link": "https://dev.to/marcinwosinek/series/14003",
+  "title": "SolidJS Learning Series",
+  "description": "A 4 part series ranging topics such as setup, i18n and building with esbuild.",
+  "author": "Marcin Wosinek",
+  "author_url": "https://dev.to/marcinwosinek",
+  "keywords": [
+    "learning",
+    "rosetta",
+    "esbuild"
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-08-09T18:01:02.000Z"
+}

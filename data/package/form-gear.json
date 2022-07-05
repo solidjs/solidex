@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/AdityaSetyadi/form-gear",
+  "title": "form-gear",
+  "description": "FormGear is a framework engine for dynamic form creation and complex form processing and validation for data collection.",
+  "author": "CompendiumDevTools",
+  "author_url": "https://github.com/AdityaSetyadi",
+  "keywords": [
+    "form",
+    "formgear",
+    "gear",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

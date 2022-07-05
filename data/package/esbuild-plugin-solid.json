@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/amoutonbrady/esbuild-plugin-solid",
+  "title": "esbuild-plugin-solid",
+  "description": "Plugin to compile solid-js jsx components with esbuild.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "esbuild",
+    "tooling"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ]
+}

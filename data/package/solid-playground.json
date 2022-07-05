@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/solidjs/solid-playground",
+  "title": "solid-playground",
+  "description": "A playground and REPL for Solid.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "playground",
+    "plugin"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

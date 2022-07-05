@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=wre8TPir36s",
+  "title": "Reactive Primitives in Solid JS",
+  "description": "This video is about different SolidJS reactive primitives. How to use them in a an application.",
+  "keywords": [
+    "intro",
+    "primitives"
+  ],
+  "author": "dotJS",
+  "author_url": "https://www.youtube.com/channel/UCcSeQUrdrNObZqyqMD-913g",
+  "type": "video",
+  "categories": [
+    "educational",
+    "primitive"
+  ],
+  "published_at": "2021-11-25T03:26:10.000Z"
+}

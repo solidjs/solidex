@@ -1,16 +1,23 @@
+import articles from './dist/articles.json';
+import packages from './dist/packages.json';
+import videos from './dist/videos.json';
+import podcasts from './dist/podcasts.json';
 
-import articles from './resources/articles';
-import packages from './resources/packages';
-import videos from './resources/videos';
-import podcasts from './resources/podcasts';
+import type { Ecosystem } from './types.ts';
+export Ecosystem;
 
-export const ResourceData = () => ({
+export interface EcosystemProps {
+  packages: Ecosystem[];
+  articles: Ecosystem[];
+  podcasts: Ecosystem[];
+  videos: Ecosystem[];
+};
+
+export const EcosystemData: EcosystemProps = {
   packages,
   videos,
   articles,
   podcasts
-});
+};
 
-export type ResourcesDataProps = ReturnType<typeof ResourceData>;
-
-export default ResourceData;
+export default EcosystemData;

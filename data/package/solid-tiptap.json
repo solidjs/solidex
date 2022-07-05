@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/LXSMNSYC/solid-tiptap",
+  "title": "solid-tiptap",
+  "description": "Solid bindings for TipTap.",
+  "author": "Alexis H. Munsayac",
+  "author_url": "https://github.com/LXSMNSYC",
+  "keywords": [
+    "tiptap",
+    "ui",
+    "editor",
+    "wysiwyg"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "ui"
+  ]
+}

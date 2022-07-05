@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/ionic-team/capacitor-solidjs-templates",
+  "title": "capacitor-solidjs-templates",
+  "description": "This repository holds production ready Capacitor templates for building native mobile applications using SolidJS + vite.",
+  "author": "ionic-team",
+  "author_url": "https://github.com/ionic-team",
+  "keywords": [
+    "capacitor",
+    "ionic",
+    "vite"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2022-03-17T05:51:15.000Z"
+}

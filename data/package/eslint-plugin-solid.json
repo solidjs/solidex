@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/joshwilsonvu/eslint-plugin-solid",
+  "title": "eslint-plugin-solid",
+  "description": "It is not yet stable, and some rules may change, but it's well tested and should be helpful in Solid projects today.",
+  "author": "joshwilsonvu",
+  "author_url": "https://github.com/joshwilsonvu",
+  "keywords": [
+    "linter",
+    "eslint",
+    "plugin"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "build_utility"
+  ]
+}

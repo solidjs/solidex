@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/rturnq/solid-auth0",
+  "title": "solid-auth0",
+  "description": "Auth0 integration for solid-js which wraps @auth0/auth0-spa-js.",
+  "author": "Ryan Turnquist",
+  "author_url": "https://github.com/rturnq",
+  "keywords": [
+    "authentication",
+    "auth0",
+    "auth"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin"
+  ],
+  "published_at": "2021-10-01T19:55:25.000Z"
+}

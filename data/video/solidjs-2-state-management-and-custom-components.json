@@ -1,0 +1,16 @@
+{
+  "link": "https://www.youtube.com/watch?v=YJaaAZswOcg",
+  "title": "SolidJS #2: state management and custom components",
+  "description": "In this video we will create custom components, we will analyze a couple of patterns to share the state between components and we will refactor the application that was created in the first video about Solid.",
+  "keywords": [
+    "solid",
+    "state-management"
+  ],
+  "author": "Fabio Biondi",
+  "author_url": "https://www.youtube.com/c/FabioBiondi",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-31T21:00:00.000Z"
+}

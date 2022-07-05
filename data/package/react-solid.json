@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/merged-js/react-solid",
+  "title": "react-solid",
+  "description": "A way to use Solid components inside React.",
+  "author": "merged-js",
+  "author_url": "https://github.com/merged-js",
+  "keywords": [
+    "react",
+    "binding"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2021-10-29T16:09:04.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "link": "https://www.youtube.com/watch?v=ZZ-a7B761Ds&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx",
+  "title": "Learn With Jason",
+  "description": "In this episode, Ryan Carniato will teach us how to get started with our first SolidJS app!",
+  "keywords": [
+    "netlify",
+    "vercel",
+    "cloudflare",
+    "deployment",
+    "ryanstreams"
+  ],
+  "author": "Jason Lengstorf",
+  "author_url": "https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2021-12-03T05:00:00.000Z"
+}

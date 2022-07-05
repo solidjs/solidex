@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/aldy505/vite-plugin-pages-solid",
+  "title": "vite-plugin-pages-solid",
+  "description": "A fork of vite-plugin-pages for Vue adapted for Solid.",
+  "author": "Reinaldy Rafli",
+  "author_url": "https://github.com/aldy505",
+  "keywords": [
+    "vite",
+    "pages",
+    "build"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ],
+  "published_at": "2021-10-22T19:41:04.000Z"
+}

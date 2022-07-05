@@ -1,0 +1,17 @@
+{
+  "link": "https://github.com/solidjs/solid-styled-components",
+  "title": "solid-styled-components",
+  "description": "This library provides Styled Components and css helper found in popular JS in CSS libraries.",
+  "author": "Ryan Carniato",
+  "author_url": "https://github.com/ryansolid",
+  "keywords": [
+    "styled",
+    "components",
+    "goober"
+  ],
+  "official": true,
+  "type": "package",
+  "categories": [
+    "add_on"
+  ]
+}

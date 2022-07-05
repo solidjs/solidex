@@ -1,0 +1,18 @@
+{
+  "link": "https://www.cbsofyalioglu.com/code/adonisjs-solidjs/",
+  "title": "SolidJS Setup in AdonisJS",
+  "description": "This blog post shows how to integrate SolidJS frontend library with AdonisJS backend framework.",
+  "author": "Can Burak Sofyalıoğlu",
+  "author_url": "https://www.cbsofyalioglu.com/",
+  "keywords": [
+    "adonis",
+    "back-end",
+    "framework"
+  ],
+  "official": false,
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-03-01T22:50:16.000Z"
+}

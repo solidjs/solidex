@@ -1,0 +1,18 @@
+{
+  "link": "https://github.com/orenelbaum/babel-plugin-reactivars-solid",
+  "title": "babel-plugin-reactivars-solid",
+  "description": "A Babel plugin that lets you use a Svelte like syntax with Solid (a React version is a WIP).",
+  "author": "orenelbaum",
+  "author_url": "https://github.com/orenelbaum",
+  "keywords": [
+    "svelte",
+    "reactive",
+    "vars"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "build_utility"
+  ],
+  "published_at": "2022-02-11T20:06:03.000Z"
+}

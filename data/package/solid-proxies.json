@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/Exelord/solid-proxies",
+  "title": "solid-proxies",
+  "description": "This package provides signaled versions of Javascript's built-in objects.",
+  "author": "Exelord",
+  "author_url": "https://github.com/Exelord",
+  "keywords": [
+    "primitives",
+    "proxies",
+    "solidhack"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "plugin",
+    "data"
+  ],
+  "published_at": "2022-05-07T02:42:07.000Z"
+}

@@ -1,0 +1,21 @@
+{
+  "link": "https://github.com/davedbase/solid-primitives",
+  "title": "solid-primitives",
+  "description": "A library of high-quality primitives that extend Solid's reactivity.",
+  "author": "David Di Biase",
+  "author_url": "https://github.com/davedbase",
+  "keywords": [
+    "geolocation",
+    "timer",
+    "storage",
+    "debounce",
+    "throttle",
+    "primitives"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "primitive"
+  ],
+  "published_at": "2021-10-01T19:55:25.000Z"
+}

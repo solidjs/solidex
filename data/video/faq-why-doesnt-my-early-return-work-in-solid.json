@@ -1,0 +1,19 @@
+{
+  "link": "https://www.youtube.com/watch?v=Ilf34WjMBkU",
+  "title": "FAQ: Why doesn't my early return work in Solid?",
+  "description": "Dan explains why early returns don't work in Solid the same way they work in React",
+  "keywords": [
+    "faq",
+    "early-return",
+    "control-flow",
+    "react"
+  ],
+  "author": "Dan Jutan (Jutanium)",
+  "author_url": "https://twitter.com/jutanium",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-05-18T21:00:00.000Z",
+  "official": true
+}

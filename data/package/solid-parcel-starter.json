@@ -1,0 +1,19 @@
+{
+  "link": "https://gitlab.com/enom/solid-parcel-starter",
+  "title": "solid-parcel-starter",
+  "description": "Solid starter with Tailwind and Parcel",
+  "author": "Jonathan Ginn",
+  "author_url": "https://gitlab.com/enom",
+  "keywords": [
+    "starter",
+    "typescript",
+    "parcel",
+    "tailwind"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "starters",
+    "build_utility"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "link": "https://github.com/solidjs/templates",
+  "title": "solidjs/templates",
+  "description": "This repository holds most of the official starter templates for vite.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "starter",
+    "templates",
+    "vite",
+    "tailwind",
+    "bootstrap"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "starters",
+    "build_utility"
+  ]
+}

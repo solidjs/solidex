@@ -1,0 +1,19 @@
+{
+  "link": "https://github.com/thisbeyond/solid-select",
+  "title": "solid-select",
+  "description": "A Select component for Solid.",
+  "author": "thisbeyond",
+  "author_url": "https://github.com/thisbeyond",
+  "keywords": [
+    "select",
+    "dropdown",
+    "component",
+    "ui"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "ui"
+  ],
+  "published_at": "2022-02-05T23:23:56.000Z"
+}

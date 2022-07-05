@@ -1,0 +1,17 @@
+{
+  "link": "https://www.youtube.com/watch?v=6CnjpXSZXXk",
+  "title": "SolidJS loops are better than React",
+  "description": "A video that compares React Array.map with Solid's <For> component.",
+  "keywords": [
+    "for",
+    "loop",
+    "reactivity"
+  ],
+  "author": "Basarat Codes",
+  "author_url": "https://www.youtube.com/channel/UCGD_0i6L48hucTiiyhb5QzQ",
+  "type": "video",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2022-01-21T18:56:57.000Z"
+}

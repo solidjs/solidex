@@ -1,0 +1,16 @@
+{
+  "link": "https://github.com/amoutonbrady/snowpack-solid",
+  "title": "snowpack-solid",
+  "description": "Solid + snowpack + tailwindcss template You get HMR out of the box and full PWA compatible.",
+  "author": "Alexandre Mouton Brady",
+  "author_url": "https://github.com/amoutonbrady",
+  "keywords": [
+    "snowpack",
+    "tooling"
+  ],
+  "official": false,
+  "type": "package",
+  "categories": [
+    "starters"
+  ]
+}

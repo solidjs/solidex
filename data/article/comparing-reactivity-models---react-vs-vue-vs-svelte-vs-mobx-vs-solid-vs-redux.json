@@ -1,0 +1,15 @@
+{
+  "link": "https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8",
+  "title": "Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid vs Redux",
+  "description": "Compares popular and well known frameworks through a basic todo app.",
+  "author": "Mateo Hrastnik",
+  "author_url": "https://github.com/hrastnik",
+  "keywords": [
+    ""
+  ],
+  "type": "article",
+  "categories": [
+    "educational"
+  ],
+  "published_at": "2020-08-04T07:53:33.000Z"
+}
