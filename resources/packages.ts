@@ -400,7 +400,7 @@ const packages: Array<Resource> = [
   {
     link: 'https://github.com/MrFoxPro/solid-tweakpane',
     title: 'solid-tweakpane',
-    description: ' Solid components for Tweakpane.',
+    description: 'Solid components for Tweakpane.',
     author: 'MrFoxPro',
     author_url: 'https://github.com/MrFoxPro',
     keywords: ['datgui','tweakpane', 'debug'],
