@@ -398,6 +398,17 @@ const packages: Array<Resource> = [
     categories: [ResourceCategory.AddOn],
   },
   {
+    link: 'https://github.com/MrFoxPro/solid-tweakpane',
+    title: 'solid-tweakpane',
+    description: ' Solid components for Tweakpane.',
+    author: 'MrFoxPro',
+    author_url: 'https://github.com/MrFoxPro',
+    keywords: ['datgui','tweakpane', 'debug'],
+    official: false,
+    type: ResourceType.Package,
+    categories: [ResourceCategory.AddOn],
+  },
+  {
     link: 'https://github.com/mduclehcm/solid-form',
     title: 'solid-form',
     description: 'Build 60fps forms with solid.js.',
