@@ -387,17 +387,6 @@ const packages: Array<Resource> = [
     categories: [ResourceCategory.AddOn],
   },
   {
-    link: 'https://github.com/MrFoxPro/solid-chart.js',
-    title: 'solid-chart',
-    description: 'Chart.js powered by solid-js framework.',
-    author: 'Dmitriy Nikiforov',
-    author_url: 'https://github.com/MrFoxPro',
-    keywords: ['chart', 'chart.js'],
-    official: false,
-    type: ResourceType.Package,
-    categories: [ResourceCategory.AddOn],
-  },
-  {
     link: 'https://github.com/mduclehcm/solid-form',
     title: 'solid-form',
     description: 'Build 60fps forms with solid.js.',
